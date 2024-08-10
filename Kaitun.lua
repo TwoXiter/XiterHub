@@ -9,4 +9,4 @@
 :::..:::::..:::::..:::.......:::........:::::..:::::..:::::..:::::..:::::::::........::..
 ]]--
 
-return loadstring(game:HttpGet("https://raw.githubusercontent.com/nXiter/XiterHub/main/Kaitun.lua"))()
+return loadstring(game:HttpGet("https://raw.githubusercontent.com/nXiter/XiterHub/main/KAITUN.lua"))()
