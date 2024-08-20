@@ -10,7 +10,6 @@
 ]]--
 
 -- Xiter Hub Loading 😈
-loadstring(game:HttpGet("https://raw.githubusercontent.com/2133121233/Hyper_Hub/main/uilib.txt"))()
 -- Ant-Afk ❄️
     game:GetService("Players").LocalPlayer.Idled:connect(function()
      	game:GetService("VirtualUser"):Button2Down(Vector2.new(0, 0), workspace.CurrentCamera.CFrame)
